@@ -1,8 +1,5 @@
 # Azulid
 
-<img src="" />
-
----
 Powershell Azure User Enumeration Tool
 ### Usage
 * ./azulid.ps1 -email test@test.onmicrosoft.com
