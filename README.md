@@ -3,11 +3,12 @@
 <img src="" />
 
 ---
-### Azure user enumeration
+Powershell Azure User Enumeration Tool
+### Usage
 * ./azulid.ps1 -email test@test.onmicrosoft.com
 * ./azulid.ps1 -file list.txt
 
-<img src="" />
+<img src="azulid.png" />
 
 
 
